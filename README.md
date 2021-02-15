@@ -8,5 +8,5 @@ A front-end project that fetches Pokémon data and images from free APIs. The ap
 
 ## Resource
 
-[PokéAPI](https://pokeapi.co/docs/v2#types)
-[Pokédex](https://www.pokemon.com/us/pokedex/)
+- [PokéAPI](https://pokeapi.co/docs/v2#types)
+- [Pokédex](https://www.pokemon.com/us/pokedex/)
